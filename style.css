@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan&display=swap');
+
+
+#slider{
+    margin-top: 100px;
+}
+
+#btn{
+    background-color: #ED008C; 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    height: 35px;
+    border-radius: 4px;
+}
+
+.txt{
+    font-family: 'League Spartand', sans-serif;
+    font-size: 12px;
+    color: #40BFA0;
+}
+
+.p-di-slider{
+    width: 400px;
+}
+
+#center-card{
+    margin-top: 100px;
+}
+
+.frase-c-c{
+    text-align: center;
+}
+
+.alinhar{
+    text-align: center;
+}
+
+.imagem{
+    display:inline-block;
+}
+
+.txt-center-img{
+    color:#40BFA0;
+}
+
+.p-center-row{
+    background-color: #EFFAF6;
+    color: #50D2B2;
+    text-align: center;
+    font-size: 14px;
+    width: 109px;
+    margin-left: 500px;  
+    border-radius: 8px; 
+    height: 25px;
+}
+
+.h2-work{
+    margin-left: 207px;
+    text-align: center;
+}
+
+.p-work{
+    text-align: center;
+    margin-left: 207px;
+}
+
+.under-work{
+    margin-top: 100px;
+    margin-left: 190px;
+}
+
+#div-5-under-work{
+    margin-top: 50px;
+}
+
+.div-under-under{
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+#under-row-under-work{
+    margin-top: 50px;
+}
