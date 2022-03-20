@@ -96,3 +96,19 @@
 .ship{
     margin-left: 458px;
 }
+
+.p-under-ship{
+    margin-top: 100px;
+    background-color: #EFFAF6;
+    color: #50D2B2;
+    text-align: center;
+    font-size: 14px;
+    width: 109px;
+    margin-left: 500px;  
+    border-radius: 8px; 
+    height: 25px;
+}
+
+#pristine{
+    margin-left: 300px;
+}
