@@ -5,6 +5,10 @@
     margin-top: 100px;
 }
 
+.slider-1{
+    margin-top: 70px;
+}
+
 #btn{
     background-color: #ED008C; 
     color: white;
@@ -56,7 +60,7 @@
 }
 
 .h2-work{
-    margin-left: 207px;
+    margin-left: 200px;
     text-align: center;
 }
 
@@ -92,10 +96,11 @@
     margin-right: 10px;
 
 }
-
+/*
 .ship{
     margin-left: 458px;
 }
+*/
 
 .p-under-ship{
     margin-top: 100px;
@@ -166,4 +171,36 @@
 #p-app{
     text-align: justify;
     margin-top: 170px;
+}
+
+.seamless{
+    text-align: center;
+}
+
+.img-lang{
+    margin-left: 100px;
+}
+
+#airtigth{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.txt-airtigth{
+    text-align: center;
+}
+
+#btn-air{
+    background-color: #ED008C; 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    height: 35px;
+    border-radius: 4px;
+    margin-left: 220px;
+    margin-top: 10px;
+}
+
+#h1-under-air{
+    margin-left: 330px;
 }
