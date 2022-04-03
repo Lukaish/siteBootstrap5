@@ -204,3 +204,13 @@
 #h1-under-air{
     margin-left: 330px;
 }
+
+#images-testimonials{
+    margin-top: 80px;
+}
+
+#img-16{
+    background-image: url(./imagens/img16.png);
+    height: 467px;
+    margin-top: 50px;
+}
