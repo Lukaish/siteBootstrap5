@@ -210,7 +210,29 @@
 }
 
 #img-16{
-    background-image: url(./imagens/img16.png);
+    background-image: url(./imagens/img16.2.png);
     height: 467px;
     margin-top: 50px;
+}
+
+.p1-footer{
+    margin-top: 80px;
+    margin-left: 15px;
+    color: #44C4A3;
+    font-size: small;
+}
+
+.h1-footer{
+    color: white;
+    margin-left: 15px;
+}
+
+.img-footer{
+    margin-top: 150px;
+}
+
+.p2-footer{
+    margin-top: 9px;
+    color: white;
+    text-align: left;
 }
